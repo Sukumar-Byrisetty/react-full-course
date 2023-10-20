@@ -1,15 +1,13 @@
 import React, {useState} from "react";
-
+import Starter from "./useState/starter/useState-example-3";
 
 function App() {
-  useState();
-  useState();
-
   return (
     <div className="App">
-      <h1>hello hooks</h1>
+      <Starter />
     </div>
   );
-}
+};
 
 export default App;
+
