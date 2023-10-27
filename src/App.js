@@ -1,5 +1,6 @@
-import React, {useState} from "react";
-import Starter from "./useState/starter/useState-example-3";
+import React from "react";
+import Starter from "./useEffect/starter/useEffect-example-2";
+
 
 function App() {
   return (
