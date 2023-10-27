@@ -1,6 +1,5 @@
 import React from "react";
-import Starter from "./useEffect/starter/useEffect-example-2";
-
+import Starter from "./useContext/starter/useContext-basics-1";
 
 function App() {
   return (
@@ -11,4 +10,3 @@ function App() {
 };
 
 export default App;
-
