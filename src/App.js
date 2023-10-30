@@ -1,5 +1,5 @@
 import React from "react";
-import Starter from "./useContext/starter/useContext-basics-1";
+import Starter from "./useReducer/starter/2-useReducer-advanced";
 
 function App() {
   return (
