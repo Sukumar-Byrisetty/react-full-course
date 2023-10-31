@@ -1,5 +1,5 @@
 import React from "react";
-import Starter from "./useRef/starter/2-useRef-example";
+import Starter from "./useCallback/starter/ParentComp";
 
 function App() {
   return (

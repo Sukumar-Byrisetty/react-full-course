@@ -23,7 +23,7 @@ const Starter = () => {
         setFirstName(e.target.value);
       }} 
     />
-    <h5>Typing: {firstName}</h5>
+    <h5>Typing...{firstName}</h5>
     <button onClick={focus}>Focus</button>
     </>
   );
