@@ -105,8 +105,8 @@ const Index = () => {
           return (
             <li key={id}>
               <span>{text}</span>
-              <button onClick={() => changeEditState(id)}>edit</button>
-              <button onClick={() => handleDelete(id)}>delete</button>
+              <button onClick={() => changeEditState(id)}>Edit</button>
+              <button onClick={() => handleDelete(id)}>Delete</button>
             </li>
           );
         })}
